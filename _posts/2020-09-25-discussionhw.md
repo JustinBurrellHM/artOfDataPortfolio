@@ -8,7 +8,7 @@ share-img: /assets/img/path.jpg
 tags: [discussion]
 ---
 
-# Discussion: Racist Policing Algorithms
+# Discussion: Racist Policing Algorithms!
 
 #### What is the government’s stated goal in using predictive policing algorithms?
 Location-based algorithms use links between places, events, and historical crime rates tp predict where and when crimes are more likely to happen. The most common algorithm, PredPol, is used by dozens of cities in the United States.
