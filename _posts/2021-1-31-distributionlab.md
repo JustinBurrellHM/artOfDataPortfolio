@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Hospital Lab
+title: The Distribution Lab
 subtitle: Due January 31, 2021
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
