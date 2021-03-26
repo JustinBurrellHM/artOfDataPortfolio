@@ -1,13 +1,12 @@
 ---
 layout: post
-title: Lab 5: The Video Game Lab
+title: The Video Game Lab
 subtitle: Due March 14, 2021
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [lab]
 ---
-
 #### Introduction
 While searching for databases, I wanted to find one that involves some of my interests. I attempted to find a basketball or real estate csv, however, I eventually found a [database](https://www.kaggle.com/gregorut/videogamesales
 ) from kaggle.com about Video Game Sales. From spending hours trying to get Pokemon with perfect IVs, to spending hours in Terrorist Hunt on Rainbow Six Siege to improve my aim, I have always had a passion for gaming. I have played the DS, DSI, Wii, Wii U, 3DS, Xbox, Xbox 360, and the Xbox One. After quickly reading the documentation for the database, it is really interesting to see how the data about popular games and their success in sales. This database was made my Gregory Smith. This csv includes the following:
